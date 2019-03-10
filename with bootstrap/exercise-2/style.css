@@ -1,0 +1,30 @@
+header img{
+    height: 80px;
+    width: 80px;
+}
+header p{
+    width: 930px;
+    margin: auto;
+}
+
+.buttonss{
+    height: 75px;
+    border-top: 2px solid  rgba(0,0,0,.1)!important;
+    border-bottom:  2px solid  rgba(0,0,0,.1) !important;
+}
+.buttonEnd {
+    border-top: 2px solid  rgba(0,0,0,.1)!important;
+}
+.endMenu{
+    font-size: 22px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container li{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+}
